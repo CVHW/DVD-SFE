@@ -57,5 +57,5 @@ into **'train_dataset/'**. The dataset should be organized in the following form
     title={Deep Video Deblurring Using Sharpness Features from Exemplars},
     author={Xiang, xinguang and Wei, Hao and Pan, jinshan},
     journal={IEEE Transactions on Image Processing},
-    year={2020},
+    year={2020}
     }
