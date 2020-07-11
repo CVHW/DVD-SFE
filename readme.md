@@ -1,4 +1,4 @@
-# Deep Video Deblurring Using Sharpness Features from Exemplars
+# Deep Video Deblurring Using Sharpness Features from Exemplars (Submitted to TIP)
 ##### by [Xinguang Xiang](https://imag-njust.net/xinguangxiang/), [Hao Wei](https://github.com/CVHW), [Jinshan Pan](https://jspan.github.io/)
 
 
