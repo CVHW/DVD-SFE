@@ -38,7 +38,7 @@ into **'train_dataset/'**. The dataset should be organized in the following form
 * Download the FlowNet pretrained model from [Baidu Drive (password:2gca)](https://pan.baidu.com/s/1CXtNHGKF6F27OfIt-o5Pqw) and put it into **'pretrained_model/'**.<br/>
 * Prepare the dataset same as above form.<br/>
 * Start to train the model. Hyper parameters such as batch size, learning rate, epoch number can be tuned through command line:
-<table><tr><td>python main.py --batch_size 256 --lr 1e-4 --epochs 500 --save_models</td></tr></table>
+<table><tr><td>python main.py --batch_size 4 --patch_size 256 --lr 1e-4 --epochs 500 --save_models</td></tr></table>
 
 
 ##### Testing
