@@ -53,7 +53,7 @@ into **'train_dataset/'**. The dataset should be organized in the following form
 <table><tr><td>python inference.py</td></tr></table>
 
 ##### Citation
-    @article{xiang2020DVD_SFE,
+    @article{xiang2020DVD-SFE,
     title={Deep Video Deblurring Using Sharpness Features from Exemplars},
     author={Xiang, xinguang and Wei, Hao and Pan, jinshan},
     journal={IEEE Transactions on Image Processing},
